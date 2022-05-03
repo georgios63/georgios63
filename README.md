@@ -29,3 +29,5 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 I am always gaming with a group of friends and we always struggled to find new games to play! Every time we looked for good mmo games in Youtube we were always ending up with the same results! So I created an app that you can search for every MMO game, preview it and save it in your library so you know you have already played it! Creating an app that We can actually use as a group made our gaming much more fun! And it always urges me whenever I think about it to create more and more user friendly apps that people could use in their own every day struggles! 
 
 The feeling of excitement when you make something new from scratch can never go away and kept me sleepless countless of nights just to make it work!
+
+P.S (#SLeeping Gen1us - Gaming Tag)
