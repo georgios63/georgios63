@@ -3,8 +3,7 @@
 ### About me 🇬🇷🇬🇷
 
 I am 28 years old and I am from Patras, Greece. My native language is Greek and I can speak English fluently.
-I am an aspiring Software Developer.I recently graduated from two different boot camp academies!
-
+I am an aspiring Software Developer and I recently graduated from two different boot camp academies!
 Codaisseur Academy as a Full-Stack Developer which greatly expanded my practical skillset as an individual! 
 School of Applied Technology </Salt> which trained developers in a work programming enviroment.We worked as a group of 5 through all parts of
 the bootcamp assigning tasks to each other that led to a complete project that we pitched to our employer. 
