@@ -22,12 +22,6 @@ https://camo.githubusercontent.com/a3bbc59f190482c45788b1d213d1dc1b8f426691e0e63
 <img src='https://camo.githubusercontent.com/1d7814efc567041c56f7cb83654566f6be83d8b2ff4392b6c1321bfeed7d7dc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f6c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765' />
 <img width='80px' src='https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333' />
 
-### Projects
-🦾🦾🦾 Deployed Version! <a href='https://gamingandchill.netlify.app/'>Gaming And Chill</a>
-
-### About the project 
-I am always gaming with a group of friends and we always struggled to find new games to play! Every time we looked for good mmo games in Youtube we were always ending up with the same results! So I created an app that you can search for every MMO game, preview it and save it in your library so you know you have already played it! Creating an app that We can actually use as a group made our gaming much more fun! And it always urges me whenever I think about it to create more and more user friendly apps that people could use in their own every day struggles! 
-
 The feeling of excitement when you make something new from scratch can never go away and kept me sleepless countless of nights just to make it work!
 
 P.S (#SLeeping Gen1us - Gaming Tag)
