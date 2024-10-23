@@ -2,6 +2,10 @@
 
 ### About me 🇬🇷🇬🇷
 
+**Role:**
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=white&center=false&vCenter=false&width=410&height=45&lines=Full+Stack+Developer" />
+
 I am 30 years old and I am from Patras, Greece. My native language is Greek and I can speak English fluently.
 I am an aspiring Software Developer and I recently graduated from two different boot camp academies!
 Codaisseur Academy as a Full-Stack Developer which greatly expanded my practical skillset as an individual! 
