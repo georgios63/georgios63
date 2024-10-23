@@ -24,7 +24,7 @@ I love gaming and coding and I often find my self staying up till late at night 
 ![AI](https://img.shields.io/badge/AI-FF6F00?logo=ai&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white&style=for-the-badge)
 
 
 The feeling of excitement when you make something new from scratch can never go away and kept me sleepless countless of nights just to make it work!
